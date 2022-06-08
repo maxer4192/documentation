@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+You've reached the official documentation page for the ReapeR bot on Discord.
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+ReapeR
 
 .. note::
 
-   This project is under active development.
+   These docs imply you have already invited the bot to your server, and it has the necessary permissions to do the actions outlined by each command, or, is an Administrator.
 
 Contents
 --------
 
-.. toctree::
-
-   usage
-   api
