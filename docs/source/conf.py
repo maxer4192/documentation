@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'ReapeR'
+copyright = '2022, Vaprix Group Limited & ReapeR Team'
 author = 'Graziella'
 
 release = '0.1'
