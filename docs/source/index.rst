@@ -6,3 +6,11 @@ You've reached the official documentation for the ReapeR Discord bot. On this we
 .. note::
 
    These docs imply you have already invited the bot to your server, and it has the necessary permissions to do the actions outlined by each command, or, is an Administrator.
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
